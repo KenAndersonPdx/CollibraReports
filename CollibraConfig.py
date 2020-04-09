@@ -1,0 +1,6 @@
+permfile = '//nas3/CW-IT/Projects/Applications/ENT_Collibra/permissions.csv'
+username = 'ApiUser'
+password = 'frododog'
+reportfile = '//nas3/CW-IT/Projects/Applications/ENT_Collibra/UserReport.xlsx'
+errorfile = '//nas3/CW-IT/Projects/Applications/ENT_Collibra/ErrorLog.txt'
+baseurl = 'https://multco.collibra.com/rest/2.0/'
